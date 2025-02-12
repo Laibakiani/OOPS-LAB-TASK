@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+//coments
+=======
+//////////
+>>>>>>> 32931b7994f8899ccf7c7c606a0cf77ceff12350
 #include<iostream>
 using namespace std;
 double kilo(double kilometers)
