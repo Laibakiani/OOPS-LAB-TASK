@@ -1,3 +1,4 @@
+//comments oops
 #include<iostream>
 using namespace std;
 double grosssalary(int Basicsalary,int allowanceper)
